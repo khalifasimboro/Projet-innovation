@@ -1,0 +1,12 @@
+pandas   
+numpy 
+matplotlib
+seaborn
+yfinance
+streamlit
+cvxpy
+plotly
+tensorflow
+scipy
+scikit-optimize
+-e .
