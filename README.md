@@ -53,4 +53,4 @@ If you would like to contribute to the Portfolio Optimization Tool, feel free to
 
 Contact:
 
-If you have any questions or suggestions regarding the Portfolio Optimization Tool, please feel free to contact me at shubhan.kamat@gmail.com
+If you have any questions or suggestions regarding the Portfolio Optimization Tool, please feel free to contact me at simbororydouane2001@gmail.com
